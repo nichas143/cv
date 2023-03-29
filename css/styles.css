@@ -1,0 +1,38 @@
+body {
+    background-color: #F5EBEB;
+}
+
+hr {
+    /* height: 2px; */
+    border-style: none;
+    border-top-style: dotted;
+    width: 30%;
+    border-color: #E4D0D0;
+    border-width: 5px;
+    width: 5%;
+
+}
+
+h1,
+h3 {
+    color: #867070;
+}
+
+
+img {
+    height: 5cm;
+}
+
+b {
+    color: #867070
+}
+
+
+/* Class selectors */
+.projects {
+    color: brown;
+}
+
+.hobbies {
+    color: brown;
+}
